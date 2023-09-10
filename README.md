@@ -6,7 +6,8 @@
 **achintyashende/achintyashende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-🔭 I am really passionate about Artificial Intelligence, Machine Learning, and Data Science.
+
+- 🔭 I am really passionate about Artificial Intelligence, Machine Learning, and Data Science.
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Machine Learning
