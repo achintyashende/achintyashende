@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Achintya! 
 
-"Third-year IT student with a passion for programming (C, C++, Python). Recently explored web development, mastering HTML, CSS, JavaScript, and Tailwind. Eager to apply skills in collaborative projects and contribute to meaningful solutions."
+Third-year IT student with a passion for programming (C, C++, Python). Recently explored web development, mastering HTML, CSS, JavaScript, and Tailwind. Eager to apply skills in collaborative projects and contribute to meaningful solutions.
 <!--
 **achintyashende/achintyashende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
